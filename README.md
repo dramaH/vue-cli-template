@@ -670,6 +670,3 @@
 - 对于中后台项目，在画 UI 界面时，建议参考前端已选型的开源组件库，并推荐使用开源组件库提供的制图元件/模板，如：<a target="_blank" href="http://element-cn.eleme.io/#/zh-CN/resource">element-ui</a>
 - 对于 H5 项目，如：<a target="_blank" href="https://youzan.github.io/vant/#/zh-CN/design">vant</a>
 
-# 填坑 Q 群：901842001
-
-- <a target="_blank" href="https://jq.qq.com/?_wv=1027&k=5soIl0R" title="901842001">点击链接加入群聊</a>
